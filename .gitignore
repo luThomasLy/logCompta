@@ -1,0 +1,15 @@
+
+*.user
+build-*
+*.pro.user
+*.pro.user*
+logicielComptabilite/*.pro.user
+*moc_*
+*.o
+.DS_Store
+logicielComptabilite/*.o
+logicielComptabilite/Makefile
+qrc*
+ui_*
+*qmake.stash
+logicielComptabilite
