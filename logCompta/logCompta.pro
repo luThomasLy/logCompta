@@ -25,13 +25,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        dialogapropos.cpp \
         main.cpp \
         mainwindow.cpp
 
 HEADERS += \
+        dialogapropos.h \
         mainwindow.h
 
 FORMS += \
+        dialogapropos.ui \
         mainwindow.ui
 
 # Default rules for deployment.

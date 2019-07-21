@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>954</width>
-    <height>426</height>
+    <width>1013</width>
+    <height>629</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -64,187 +64,6 @@
        <attribute name="title">
         <string>Achats</string>
        </attribute>
-       <layout class="QVBoxLayout" name="verticalLayout_7">
-        <item>
-         <layout class="QHBoxLayout" name="horizontalLayout_2">
-          <item>
-           <layout class="QVBoxLayout" name="verticalLayout_4">
-            <item>
-             <widget class="QLabel" name="label_3">
-              <property name="text">
-               <string>Numéro de compte</string>
-              </property>
-              <property name="alignment">
-               <set>Qt::AlignCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_17">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_16">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_18">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_19">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_20">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_23">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-           </layout>
-          </item>
-          <item>
-           <layout class="QVBoxLayout" name="verticalLayout_5">
-            <item>
-             <widget class="QLabel" name="label_2">
-              <property name="text">
-               <string>Débit</string>
-              </property>
-              <property name="alignment">
-               <set>Qt::AlignCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_11">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_12">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_13">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_14">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_15">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_22">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-           </layout>
-          </item>
-          <item>
-           <layout class="QVBoxLayout" name="verticalLayout_6">
-            <item>
-             <widget class="QLabel" name="label">
-              <property name="text">
-               <string>Crédit</string>
-              </property>
-              <property name="alignment">
-               <set>Qt::AlignCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_10">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_9">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_8">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_7">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_6">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <widget class="QLineEdit" name="lineEdit_21">
-              <property name="alignment">
-               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
-              </property>
-             </widget>
-            </item>
-           </layout>
-          </item>
-         </layout>
-        </item>
-        <item>
-         <widget class="QLabel" name="label_4">
-          <property name="text">
-           <string>Total = contrôle</string>
-          </property>
-         </widget>
-        </item>
-       </layout>
       </widget>
       <widget class="QWidget" name="tab_2">
        <attribute name="title">
@@ -265,7 +84,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>954</width>
+     <width>1013</width>
      <height>22</height>
     </rect>
    </property>
