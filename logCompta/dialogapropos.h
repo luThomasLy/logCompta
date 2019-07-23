@@ -16,7 +16,7 @@ public:
     ~Dialogapropos();
 
 private slots:
-    void quitter();
+    void quitterapropos();
 
 private:
     Ui::Dialogapropos *ui;

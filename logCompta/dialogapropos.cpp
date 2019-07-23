@@ -7,7 +7,7 @@ Dialogapropos::Dialogapropos(QWidget *parent) :
     ui(new Ui::Dialogapropos)
 {
     ui->setupUi(this);
-    connect(ui->pushButtonQuitter, SIGNAL(clicked()), this, SLOT(quitter()));
+    connect(ui->pushButtonQuitter, SIGNAL(clicked()), this, SLOT(quitterapropos()));
 }
 
 Dialogapropos::~Dialogapropos()
@@ -15,7 +15,7 @@ Dialogapropos::~Dialogapropos()
     delete ui;
 }
 
-void Dialogapropos::quitter()
+void Dialogapropos::quitterapropos()
 {
     close();
 }
