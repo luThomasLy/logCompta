@@ -3,13 +3,13 @@
 build-*
 *.pro.user
 *.pro.user*
-logicielComptabilite/*.pro.user
+logCompta/*.pro.user
 *moc_*
 *.o
 .DS_Store
-logicielComptabilite/*.o
-logicielComptabilite/Makefile
+logCompta/*.o
+logCompta/Makefile
 qrc*
 ui_*
 *qmake.stash
-logicielComptabilite
+logCompta
